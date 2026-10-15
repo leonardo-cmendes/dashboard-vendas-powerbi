@@ -8,7 +8,7 @@ Projeto em Power BI que analisa a performance comercial, o volume de vendas e o 
 
 **Ferramentas:** Power BI Desktop · Power Query (linguagem M) · DAX
 
-[Demonstração do dashboard](imagens/demo-dashboard.gif)
+![Demonstração do dashboard](imagens/demo-dashboard.gif)
 
 ## 🔧 Tratamento de Dados (Power Query)
 
