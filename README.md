@@ -8,6 +8,8 @@ Projeto em Power BI que analisa a performance comercial, o volume de vendas e o 
 
 **Ferramentas:** Power BI Desktop · Power Query (linguagem M) · DAX
 
+[Demonstração do dashboard](imagens/demo-dashboard.gif)
+
 ## 🔧 Tratamento de Dados (Power Query)
 
 - **Vendas (2022, 2023 e 2024):** três planilhas anuais importadas e combinadas em uma única tabela `Base Vendas` com `Table.Combine`. Ajuste de tipos de dados, conversão do `Preco Unitario` (que vinha em centavos) dividindo por 100 e criação da coluna `Fat na Venda` (`Qtd. Vendida` × `Preco Unitario`).
